@@ -14,5 +14,3 @@ export interface Basket {
     items: BasketItem[];
 }
 
-
-
