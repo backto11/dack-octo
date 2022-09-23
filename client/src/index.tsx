@@ -13,7 +13,6 @@ import { store } from './app/store/configureStore';
 export const history = createBrowserHistory();
 
 
-
 ReactDOM.render(
   <React.StrictMode>
     <Router history={history}>
